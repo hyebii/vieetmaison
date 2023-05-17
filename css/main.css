@@ -521,7 +521,7 @@ header .inner .pc ul.user li a img {
     header .open img {width: 25px;}
     /* .main_visual */
     .main_visual figure:first-child {width: 61.23%; /* 627 / 1024 X 100 */}
-    .main_visual figure:last-child {width: calc(100% - 61.23 - 20px);}
+    .main_visual figure:last-child {width: calc(100% - 61.23% - 20px);}
     .main_visual figure:first-child p {margin-right: 0;}
     /* .vie */
     .vie .inner > div div {display: block; position: static; margin-top: 15px;}
